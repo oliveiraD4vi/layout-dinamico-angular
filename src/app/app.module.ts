@@ -8,7 +8,6 @@ import { HeaderTwoComponent } from './components/headers/header-two/header-two.c
 import { HeaderThreeComponent } from './components/headers/header-three/header-three.component';
 import { FooterOneComponent } from './components/footers/footer-one/footer-one.component';
 import { FooterTwoComponent } from './components/footers/footer-two/footer-two.component';
-import { FashionComponent } from './components/fashion/fashion.component';
 import { HomeComponent } from './views/home/home.component';
 
 @NgModule({
@@ -19,7 +18,6 @@ import { HomeComponent } from './views/home/home.component';
     HeaderThreeComponent,
     FooterOneComponent,
     FooterTwoComponent,
-    FashionComponent,
     HomeComponent
   ],
   imports: [
